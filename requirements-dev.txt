@@ -1,0 +1,13 @@
+flake8 >= 2.2.3
+doublex >= 1.8.1
+pexpect >= 3.3
+
+pytest >= 2.6.3
+pytest-cov >= 1.8.0
+nosexcover >= 1.0.10
+
+python-coveralls >= 2.4.2
+
+wheel >= 0.24.0
+
+releaseme >= 0.2.8

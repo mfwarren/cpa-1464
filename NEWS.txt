@@ -1,0 +1,10 @@
+
+News
+====
+
+0.1
+-----
+
+*Release date: Jan 18 2015*
+
+* released first alpha
