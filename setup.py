@@ -40,5 +40,9 @@ setup(name='cpa-1464',
     packages=find_packages('src', exclude=['tests']),
     package_dir = {'': 'src'},include_package_data=True,
     zip_safe=False,
+    entry_points="""
+    [console_scripts]
+    cpa_dump = cpa_1464.cpa_dump:main
+    """,
     install_requires=install_requires
 )
